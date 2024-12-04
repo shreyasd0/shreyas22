@@ -1,0 +1,35 @@
+header{
+    background-color: lightblue;
+    color: orange;
+    padding: 1rem;
+
+
+}
+body{
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.photo{
+    margin: 15px;
+}
+.detail{
+    background-color: lightcoral;
+    color: black;
+    padding: 5px;
+    text-align: left;
+}
+footer{
+    background-color: lightcyan;
+    color: black;
+    padding: 1px;
+    margin: 50px 10rem;
+    text-align: left;
+}
